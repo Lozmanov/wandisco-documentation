@@ -176,13 +176,11 @@ The HDP sandbox services can take up to 5-10 minutes to start. You will need to 
 
    `http://<docker_IP_address>:8081`
 
-2. Click on the **Settings** cog in the **HCFS HDP** zone.
+2. Click on the **fusion-server-sandbox-hdp** link in the **HCFS HDP** zone. This will open the UI for this zone in a new tab.
 
-3. Click on the Power button next to the **LiveHiveFusionPlugin** entry.
+3. Click on **Settings -> Live Hive: Plugin Activation**, then scroll back to the top of the page and click **Activate**.
 
-The status will then change to **Activating**, then finally to **Active**.
-
-Go back to the home page by clicking on the **Home** icon near the top right.
+When prompted click the link to reload the page, then go back to the OneUI tab.
 
 ### Setup Databricks in Fusion
 
